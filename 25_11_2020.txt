@@ -1,0 +1,14 @@
+ // int ilk_degisken = 5; // integer türündeki değişkene 5 atandı
+
+            /* int ilk_degisken;
+               ilk_degisken = 10; 
+
+
+            Console.WriteLine(ilk_degisken / 10); */ // ilk_degiskeni 10 a böler
+
+            string ilk_degisken2 = "ahmet";
+            string ilk_degisken = "10";
+
+            Console.WriteLine(ilk_degisken / 10); // string'lerde 4 işlem olmaz
+
+            Console.ReadKey();
